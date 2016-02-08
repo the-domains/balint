@@ -1,0 +1,14 @@
+layout_spectrum: 0.663397
+color:
+  saturation: 0.5347087
+  lightness: 0.5426173
+  brandStrength: 0.8476703
+  brandColors:
+    - '#171F27'
+    - '#CFC5B4'
+    - '#02654B'
+    - '#65645D'
+    - '#01A380'
+  rhythmicContrast: 0.474333
+typography_spectrum: 0
+name: Balint
